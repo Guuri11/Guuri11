@@ -14,7 +14,7 @@
 [![Instagram](https://github.com/Guuri11/tech-img/blob/master/353424-instagram-logo_107474.png "Instagram")](https://www.instagram.com/guuri_11/)
 [![Linkedin](https://github.com/Guuri11/tech-img/blob/master/linkedin_black_logo_icon_147114.png "Linkedin")](https://www.linkedin.com/in/sergio-gurillo-corral-2585431b0/)
 
-### Some Languages && Tools:
+### Some Languages & Tools:
 ![html&css&js](https://github.com/Guuri11/tech-img/blob/master/htmlcssjs.png "htmlcssjs") 
 ![php](https://github.com/Guuri11/tech-img/blob/master/php.png "php")
 ![symfony](https://github.com/Guuri11/tech-img/blob/master/symfony.png "symfony")
@@ -25,3 +25,5 @@
 ![pwa](https://github.com/Guuri11/tech-img/blob/master/pwa.png "pwa")
 ![python](https://github.com/Guuri11/tech-img/blob/master/python.png "python")
 ![sass](https://github.com/Guuri11/tech-img/blob/master/sass.png "sass")
+
+and a lot more...
