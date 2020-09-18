@@ -1,6 +1,6 @@
 ### Hi there, I'm Sergio Gurillo Corral - aka Guri👋
 
-## I'm a Web Developer who's ...currently working on [Hadbos](https://www.hadbos.com)
+## I'm a Web Developer 💻
 
 - 🔭 I’m currently working on [Hadbos](https://www.hadbos.com).
 - 🌱 I’m currently learning Docker & React Native.
