@@ -10,9 +10,8 @@
 - ⚡ Fun fact: Also I play basketball since I was 8yo and I'm coaching my own team 🏀
 
 ### Connect with me:
-[![Twitter](https://github.com/Guuri11/tech-img/blob/master/twitter-logo-button.png "Twitter")](https://twitter.com/Guuri11)
-[![Instagram](https://github.com/Guuri11/tech-img/blob/master/353424-instagram-logo_107474.png "Instagram")](https://www.instagram.com/guuri_11/)
-[![Linkedin](https://github.com/Guuri11/tech-img/blob/master/linkedin_black_logo_icon_147114.png "Linkedin")](https://www.linkedin.com/in/sergio-gurillo-corral-2585431b0/)
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sergio-gurillo-corral-2585431b0/)
+[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Guuri11)
 
 ### Some Languages & Tools:
 ![html&css&js](https://github.com/Guuri11/tech-img/blob/master/htmlcssjs.png "htmlcssjs") 
