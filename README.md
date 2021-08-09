@@ -1,13 +1,14 @@
 ### Hi there, I'm Sergio Gurillo Corral - aka Guri👋
 
-## I'm a Web Developer 💻
+## I'm a Software Developer 💻
 
-- 🔭 I’m currently working on [Hadbos](https://www.hadbos.com).
-- 🌱 I’m currently learning Docker & React Native.
+- 🔭 I’m currently working on [EDT Partners](https://edtpartners.com) as Full-Stack Developer.
 - 👯 I’m looking to collaborate designers || others programmers.
 - 💯 GOAL: Be the best programmer I can be.
 - 💪 Some people said that I wouldn't get anything, so I proved them wrong.
-- ⚡ Fun fact: Also I play basketball since I was 8yo and I'm coaching my own team 🏀
+- ⚡ Fun fact: Also I play basketball since I was 8yo 🏀
+
+[comment]: # (- 🌱 I’m currently learning Docker & React Native.)
 
 ### Some Languages & Tools:
 ![html&css&js](https://github.com/Guuri11/tech-img/blob/master/htmlcssjs.png "htmlcssjs") 
