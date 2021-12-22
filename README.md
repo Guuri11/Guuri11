@@ -2,7 +2,7 @@
 
 ## I'm a Software Developer 💻
 
-- 🔭 I’m currently working on [EDT Partners](https://edtpartners.com) as Full-Stack Developer.
+- 🔭 I’m currently working on [EDT Partners](https://edtpartners.com) as Software Developer.
 - 👯 I’m looking to collaborate designers || others programmers.
 - 💯 GOAL: Be the best programmer I can be.
 - 💪 Some people said that I wouldn't get anything, so I proved them wrong.
