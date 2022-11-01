@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergio Gurillo</h1>
-<h3 align="center">A passionate Software Developer from Ondara</h3>
+<h3 align="center">A passionate Software Developer with +50 projects and non of them finished😂</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guuri11&label=Profile%20views&color=0e75b6&style=flat" alt="guuri11" /> </p>
 
