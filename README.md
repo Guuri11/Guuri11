@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://dev.to/guuri11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="guuri11" height="30" width="40" /></a>
 <a href="https://twitter.com/guuri11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="guuri11" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sergio gurillo corral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergio gurillo corral" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sergio-gurillo-corral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergio gurillo corral" height="30" width="40" /></a>
 <a href="https://instagram.com/guuri_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guuri_11" height="30" width="40" /></a>
 </p>
 
