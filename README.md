@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm (Sergio Gurillo)[https://guridev.vercel.app/]</h1>
+<h1 align="center">Hi 👋,I'm  <a href="https://guridev.vercel.app/" target="_blank">Sergio Gurillo</a></h1>
 <h3 align="center">A passionate Software Developer with +50 projects and non of them finished😂</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guuri11&label=Profile%20views&color=0e75b6&style=flat" alt="guuri11" /> </p>
