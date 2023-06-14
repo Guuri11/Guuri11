@@ -20,6 +20,8 @@
 - 📫 How to reach me **sergio.gurillo11@gmail.com**
 
 - ⚡ Fun fact **I play basketball since I was 8yo 🏀**
+  
+- 🎨 <a href="https://guridev.vercel.app/" target="blank">Check out my portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
