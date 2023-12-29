@@ -34,7 +34,7 @@
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  
     <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img alt="C++" src="https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2B" />
+    <img alt="C++" src="https://img.shields.io/badge/C++-9529d9?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
     <img alt="Kafka" src="https://img.shields.io/badge/Kafka-316192?style=for-the-badge&logo=apachekafka&logoColor=white" />
     <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
