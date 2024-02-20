@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/guuri11" target="blank"><img src="https://img.shields.io/twitter/follow/guuri11?logo=twitter&style=for-the-badge" alt="guuri11" /></a> </p>
 
-- 🔭 I’m currently working on [Healz](https://www.joinhealz.com/)
+- 🔭 I’m currently working on [NTT Data]([https://es.nttdata.com/)
 
 - 💪 Some people said that **I wouldn't get anything, so I proved them wrong.**
 
