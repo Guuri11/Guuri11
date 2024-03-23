@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm  <a href="https://guridev.vercel.app/" target="blank">Sergio Gurillo</a></h1>
-<h3 align="center">Software Engineer - Java | Python | C++ | Typescript</h3>
+<h3 align="center">Software Engineer - Java </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guuri11&label=Profile%20views&color=0e75b6&style=flat" alt="guuri11" /> </p>
 
@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/guuri11" target="blank"><img src="https://img.shields.io/twitter/follow/guuri11?logo=twitter&style=for-the-badge" alt="guuri11" /></a> </p>
 
-- 🔭 I’m currently working on [NTT Data]([https://es.nttdata.com/)
+- 🔭 I’m currently working on [NTT Data]([https://es.nttdata.com/) & [Inditex](https://www.inditex.com/)
 
 - 💪 Some people said that **I wouldn't get anything, so I proved them wrong.**
 
 - 👯 I’m looking to collaborate on **designers || others developers**
 
-- 💯 My goal is **be the best developer I can be.**
+- 💯 My goal is **be the best Software Engineer I can be.**
 
-- 💬 Ask me about **Java, Python, Typescript, Clean Code, Architecture...**
+- 💬 Ask me about **Java, Spring Boot, Software Architectura...**
 
 - 📫 How to reach me **sergio.gurillo11@gmail.com**
 
