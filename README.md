@@ -13,7 +13,7 @@
 
 - 💯 My goal is **be the best Software Engineer I can be.**
 
-- 💬 Ask me about **Java, Spring Boot, Software Architectura...**
+- 💬 Ask me about **Java, Spring Boot, Software Architecture...**
 
 - 📫 How to reach me **sergio.gurillo11@gmail.com**
 
