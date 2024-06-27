@@ -45,7 +45,7 @@
     <img alt="Arduino" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guuri11&langs_count=8&show_icons=true&locale=en&layout=compact" alt="guuri11" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guuri11&langs_count=6&hide=php,css,html&show_icons=true&locale=en&layout=compact" alt="guuri11" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guuri11&show_icons=true&locale=en" alt="guuri11" /></p>
 
