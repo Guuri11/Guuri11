@@ -21,7 +21,7 @@
   
 - 🎨 <a href="https://guridev.vercel.app/" target="blank">Check out my portfolio</a>
 
-<h3>Know ISI!</h3>
+<h3>Meet ISI!</h3>
 
 [1]: https://github.com/Guuri11/isi
 [2]: https://github.com/user-attachments/assets/f46a2800-cf00-4b0f-97da-8d6ad8acb2fb
