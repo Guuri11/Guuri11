@@ -21,6 +21,12 @@
   
 - 🎨 <a href="https://guridev.vercel.app/" target="blank">Check out my portfolio</a>
 
+<h3>Know ISI!</h3>
+
+[1]: https://github.com/Guuri11/isi
+[2]: https://github.com/user-attachments/assets/f46a2800-cf00-4b0f-97da-8d6ad8acb2fb
+[![Know ISI!][2]][1]
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/guuri11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="guuri11" height="30" width="40" /></a>
