@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm  <a href="https://guridev.vercel.app/" target="blank">Sergio Gurillo</a></h1>
-<h3 align="center">Software Engineer - Java </h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guuri11&label=Profile%20views&color=0e75b6&style=flat" alt="guuri11" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guuri11" alt="guuri11" /></a> </p>
 
-- 🔭 I’m currently working on [NTT Data](https://es.nttdata.com/) & [Inditex](https://www.inditex.com/)
+- 🔭 I’m currently working on [Digitalia GBE](https://www.digitaliagbe.com/)
 
 - 💪 Some people said that **I wouldn't get anything, so I proved them wrong.**
 
@@ -13,13 +13,13 @@
 
 - 💯 My goal is **be the best Software Engineer I can be.**
 
-- 💬 Ask me about **Java, Spring Boot, Software Architecture...**
+- 💬 Ask me about **Java, Rust, Software Architecture...**
 
 - 📫 How to reach me **sergio.gurillo11@gmail.com**
 
 - ⚡ Fun fact **I play basketball since I was 8yo 🏀**
   
-- 🎨 <a href="https://guridev.vercel.app/" target="blank">Check out my portfolio</a>
+- 🎨 <a href="https://sergiogurillo.es/" target="blank">Check out my portfolio</a>
 
 <h3>Meet ISI!</h3>
 
@@ -36,10 +36,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p>
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+    <img alt="Rust" src="https://img.shields.io/badge/Rust-ee3826?style=for-the-badge&logo=rust&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  
     <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img alt="C++" src="https://img.shields.io/badge/C++-9529d9?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
     <img alt="Kafka" src="https://img.shields.io/badge/Kafka-316192?style=for-the-badge&logo=apachekafka&logoColor=white" />
     <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
