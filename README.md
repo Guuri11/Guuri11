@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm  <a href="https://guridev.vercel.app/" target="blank">Sergio Gurillo</a></h1>
+<h1 align="center">Hi 👋, I'm  <a href="https://sergiogurillo.framer.website/" target="blank">Sergio Gurillo</a></h1>
 <h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guuri11&label=Profile%20views&color=0e75b6&style=flat" alt="guuri11" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guuri11" alt="guuri11" /></a> </p>
 
 - 🔭 I’m currently working on [Digitalia GBE](https://www.digitaliagbe.com/)
 
