@@ -1,0 +1,99 @@
+<svg width="760" height="562" viewBox="0 0 760 562" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .mono { font-family: 'Courier New', 'Lucida Console', Consolas, monospace; font-size: 13px; }
+      .title-text { font-family: 'Courier New', Consolas, monospace; font-size: 12px; fill: #8b949e; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="760" height="562" rx="12" fill="#0d1117"/>
+
+  <!-- Title bar -->
+  <rect width="760" height="40" rx="12" fill="#161b22"/>
+  <rect y="28" width="760" height="14" fill="#161b22"/>
+
+  <!-- Window dots -->
+  <circle cx="24" cy="20" r="6" fill="#ff5f57"/>
+  <circle cx="46" cy="20" r="6" fill="#ffbd2e"/>
+  <circle cx="68" cy="20" r="6" fill="#28c840"/>
+
+  <!-- Title -->
+  <text x="380" y="26" text-anchor="middle" class="title-text">sergio@localhost — ~/dev</text>
+
+  <!-- ── PROMPT 1: whoami ── -->
+  <text x="24" y="66" class="mono">
+    <tspan fill="#39FF14">❯ </tspan>
+    <tspan fill="#64FFDA">~/dev </tspan>
+    <tspan fill="#6e7681">git:(</tspan>
+    <tspan fill="#c792ea">main</tspan>
+    <tspan fill="#6e7681">) </tspan>
+    <tspan fill="#e6edf3">whoami</tspan>
+  </text>
+
+  <!-- Box via SVG rect -->
+  <rect x="24" y="76" width="440" height="84" rx="4" fill="none" stroke="#39FF14" stroke-width="1.5"/>
+  <text x="38" y="99"  class="mono" fill="#ffffff" font-weight="bold">Sergio Gurillo Corral</text>
+  <text x="38" y="121" class="mono" fill="#8b949e">Senior Software Engineer</text>
+  <text x="38" y="143" class="mono" fill="#8b949e">Valencia, Spain</text>
+
+  <!-- ── PROMPT 2: cat origin.txt ── -->
+  <text x="24" y="183" class="mono">
+    <tspan fill="#39FF14">❯ </tspan>
+    <tspan fill="#64FFDA">~/dev </tspan>
+    <tspan fill="#6e7681">git:(</tspan>
+    <tspan fill="#c792ea">main</tspan>
+    <tspan fill="#6e7681">) </tspan>
+    <tspan fill="#e6edf3">cat origin.txt</tspan>
+  </text>
+  <text x="24" y="205" class="mono" fill="#8b949e">I got my first computer at 17. Before that, I just knew</text>
+  <text x="24" y="227" class="mono" fill="#8b949e">I wanted to build videogames someday.</text>
+  <text x="24" y="249" class="mono" fill="#8b949e">That dream turned into a career — and now I write</text>
+  <text x="24" y="271" class="mono">
+    <tspan fill="#8b949e">Rust for a living. Close enough. </tspan>
+    <tspan fill="#ee3826">&#x1F980;</tspan>
+  </text>
+
+  <!-- ── PROMPT 3: cat about.txt ── -->
+  <text x="24" y="311" class="mono">
+    <tspan fill="#39FF14">❯ </tspan>
+    <tspan fill="#64FFDA">~/dev </tspan>
+    <tspan fill="#6e7681">git:(</tspan>
+    <tspan fill="#c792ea">main</tspan>
+    <tspan fill="#6e7681">) </tspan>
+    <tspan fill="#e6edf3">cat about.txt</tspan>
+  </text>
+  <text x="24" y="333" class="mono">
+    <tspan fill="#64FFDA">currently  </tspan><tspan fill="#6e7681">&#x2192;  </tspan><tspan fill="#e6edf3">Senior Engineer @ Digitalia GBE</tspan>
+  </text>
+  <text x="24" y="355" class="mono">
+    <tspan fill="#64FFDA">building   </tspan><tspan fill="#6e7681">&#x2192;  </tspan><tspan fill="#e6edf3">Puerto — Rust DDD scaffolding framework</tspan>
+  </text>
+  <text x="24" y="377" class="mono">
+    <tspan fill="#64FFDA">ask me     </tspan><tspan fill="#6e7681">&#x2192;  </tspan><tspan fill="#e6edf3">Rust, Architecture, DDD, Hexagonal...</tspan>
+  </text>
+  <text x="24" y="399" class="mono">
+    <tspan fill="#64FFDA">side note  </tspan><tspan fill="#6e7681">&#x2192;  </tspan><tspan fill="#e6edf3">started ~100 projects. shipped... some.</tspan>
+  </text>
+  <text x="24" y="421" class="mono">
+    <tspan fill="#64FFDA">reach me   </tspan><tspan fill="#6e7681">&#x2192;  </tspan><tspan fill="#e6edf3">sergio.gurillo11@gmail.com</tspan>
+  </text>
+
+  <!-- ── PROMPT 4: cat human.txt ── -->
+  <text x="24" y="461" class="mono">
+    <tspan fill="#39FF14">❯ </tspan>
+    <tspan fill="#64FFDA">~/dev </tspan>
+    <tspan fill="#6e7681">git:(</tspan>
+    <tspan fill="#c792ea">main</tspan>
+    <tspan fill="#6e7681">) </tspan>
+    <tspan fill="#e6edf3">cat human.txt</tspan>
+  </text>
+  <text x="24" y="483" class="mono" fill="#e6edf3">&#x1F3C0;  basketball since age 8 — LeBron, Navarro, Rose, Doncic</text>
+  <text x="24" y="505" class="mono" fill="#e6edf3">&#x1F4DA;  tolkien nerd since forever (The Two Towers on PS2, yes)</text>
+  <text x="24" y="527" class="mono" fill="#e6edf3">&#x1F431;  sharing home with my partner &amp; our 5 cats</text>
+
+  <!-- Blinking cursor -->
+  <rect x="24" y="538" width="8" height="14" fill="#39FF14">
+    <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
