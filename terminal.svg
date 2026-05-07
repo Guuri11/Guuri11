@@ -88,8 +88,8 @@
     <tspan fill="#6e7681">) </tspan>
     <tspan fill="#e6edf3">cat human.txt</tspan>
   </text>
-  <text x="24" y="483" class="mono" fill="#e6edf3">&#x1F3C0;  basketball since age 8 — LeBron, Navarro, Rose, Doncic</text>
-  <text x="24" y="505" class="mono" fill="#e6edf3">&#x1F4DA;  tolkien nerd since forever (The Two Towers on PS2, yes)</text>
+  <text x="24" y="483" class="mono" fill="#e6edf3">&#x1F3C0;  basketball since age 8</text>
+  <text x="24" y="505" class="mono" fill="#e6edf3">&#x1F4DA;  tolkien nerd since forever</text>
   <text x="24" y="527" class="mono" fill="#e6edf3">&#x1F431;  sharing home with my partner &amp; our 5 cats</text>
 
   <!-- Blinking cursor -->
